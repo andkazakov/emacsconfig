@@ -31,9 +31,5 @@
 #+begin_src emacs-lisp :tangle config.el
 (load! "configs/+ui")
 (load! "configs/+org")
-;; (load! "configs/+python")
-;; (load! "configs/+ebib")
-(load! "configs/+roam")
 (load! "configs/+elfeed")
-;; (load! "configs/+debug")
 #+end_src
