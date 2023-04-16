@@ -17,8 +17,4 @@
 
 (load! "configs/+ui")
 (load! "configs/+org")
-;; (load! "configs/+python")
-;; (load! "configs/+ebib")
-(load! "configs/+roam")
 (load! "configs/+elfeed")
-;; (load! "configs/+debug")
